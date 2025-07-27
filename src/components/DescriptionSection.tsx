@@ -19,7 +19,7 @@ export default function DescriptionSection() {
           </p>
 
           <p className="text-xl mb-6">
-            Inside the F-hole, the lable reads: "Made in China for USAICA Imports. Academia 2014"
+            Inside the F-hole, the lable reads: &ldquo;Made in China for USAICA Imports. Academia 2014&rdquo;
           </p>
           
           <div className="grid md:grid-cols-2 gap-8 mt-8">
