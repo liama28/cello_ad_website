@@ -68,11 +68,11 @@ export default function PrimaryPhoto() {
                 <Image
                   src="/IMG_01.jpeg"
                   alt="Primary photo of cello - enlarged view"
-                  width={1200}
-                  height={1600}
+                  width={800}
+                  height={600}
                   className="max-w-full max-h-[90vh] object-contain"
-                  quality={100}
                   sizes="90vw"
+                  quality={70}
                   unoptimized={false}
                 />
               </div>
